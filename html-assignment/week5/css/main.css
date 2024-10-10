@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    <title>Playing with CSS</title>
+    <style type="text/css">
+
+    h1{
+        font-family: courier, courier-new, serif;
+        font-size:25pt;
+        color:red;
+        border-bottom:2px solid blue;
+    }
+    p {
+        font-family:arial, verdana, sans-serif;
+        font-size: 12pt;
+        color: #6B6BD7
+    }
+    .red_text {
+        color.red;
+    }
+    </style>
+</head>
+<body>
+    <h1>
+
+body{
+    font-family:verdana;
+    font-size:18px;
+}
+
+
+
+
+
+
