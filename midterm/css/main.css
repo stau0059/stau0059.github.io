@@ -47,26 +47,18 @@ table {
 	border-spacing: 0;
 }
 
+	margin for photos!
+	add percentages for photos
+	
+	ul.b {
+		list-style-position: inside;
+	  }
 
-<style>
-.container {
-  position: relative;
+.visit-checkbox, value {
+	display: right;
 }
-
-.center {
-  position: absolute;
-  top: 50%;
-  width: 100%;
-  text-align: center;
-  font-size: 18px;
-}
-
-img { 
-  width: 100%;
-  height: auto;
-  opacity: 0.3;
-}
-</style>
-
-
-
+	header {
+		padding: 100px;
+		border: 1px solid #4CAF50;
+	  }
+ 
